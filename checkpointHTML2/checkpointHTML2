@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MENU</title> 
+</head>
+<body>
+   <h1>Liste Du Plaisirs</h1>
+
+   <h2>ENTRÉE</h2>
+    <ul>
+      <li>
+        <strong>BUFALA E RUCOLA</strong>
+        <p>tomates-cerise, mozzarella, huile d'olive
+            extra vierge, basilic & roquette</p>
+        <img src="BUFALA E RUCOLA.jpg" alt="BUFALA E RUCOLA.jpg">
+      </li>
+    </ul>
+
+   <h2>PLAT PRINCIPAL</h2>
+    <ul>
+        <li>
+       <strong>SAUMON GRILLÉ</strong>
+       <p>saumon bio grillé servi avec scarole
+                  sautée</p>
+        <img src="SAUMON GRILLÉ.jpg" alt="SAUMON GRILLÉ.jpg">
+
+        <strong>TAGIATA</strong>
+        <p>piccata de veau au citron & fleurs de 
+                     câpres</p>
+        <img src="TAGLIATA.jpg" alt="TAGLIATA.jpg">
+    
+     </li>
+    </ul>
+    
+    <h2>DESSERT</h2>
+    <ul>
+        <li>
+        <strong>TIRAMISÙ</strong>
+        <p>tiramisù classique aux copeaux de 
+                 chocoloat avec crème fouettée</p>
+        <img src="TIRAMISÙ.jpg" alt="TIRAMISÙ.jpg">
+        </li>
+    </ul>
+</body>
+</html>
